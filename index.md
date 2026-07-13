@@ -1,0 +1,83 @@
+Contexto
+
+Actualmente administro un negocio online dedicado a la venta de suplementos deportivos en Argentina. La mayor parte de las ventas provienen de redes sociales como Instagram y Facebook, donde realizo publicaciones, campañas publicitarias y atención al cliente.
+
+Durante una campaña promocional detecté que, aunque las publicaciones tenían un buen alcance, la cantidad de consultas y conversiones era menor de lo esperado.
+
+Problema
+
+El principal desafío consistía en mejorar el rendimiento de las campañas pagas sin aumentar significativamente el presupuesto publicitario.
+
+Se detectaron algunos problemas:
+
+Segmentación demasiado amplia.
+Creatividades poco diferenciadas.
+Mensajes poco orientados al beneficio del cliente.
+Falta de seguimiento de métricas para optimizar anuncios.
+Acciones
+
+Para solucionar el problema se realizaron las siguientes acciones:
+
+1. Revisión de métricas
+
+Se analizaron indicadores como:
+
+CTR
+CPC
+Alcance
+Frecuencia
+Conversiones
+
+Esto permitió identificar qué anuncios funcionaban mejor.
+
+2. Optimización de la segmentación
+
+Se crearon públicos más específicos utilizando intereses relacionados con:
+
+Entrenamiento
+Gimnasios
+Nutrición deportiva
+Proteínas
+Creatina
+
+También se probaron públicos similares (Lookalike).
+
+3. Mejora de las creatividades
+
+Se diseñaron nuevas imágenes utilizando fondos más modernos y una mejor organización visual de los productos.
+
+También se modificó el copy para destacar beneficios concretos y llamados a la acción más claros.
+
+4. Post-mortem
+
+Una vez finalizada la campaña se documentó qué funcionó y qué aspectos debían mejorarse.
+
+Entre ellos:
+
+Evitar campañas demasiado generales.
+Probar varias creatividades desde el inicio.
+Analizar resultados semanalmente.
+Basar las decisiones en datos y no únicamente en intuición.
+Aprendizajes
+
+Este proyecto permitió comprender la importancia de:
+
+Medir resultados continuamente.
+Iterar sobre campañas pequeñas antes de escalar presupuesto.
+Documentar errores para no repetirlos.
+Utilizar control de versiones para registrar cambios importantes en la documentación del proyecto.
+Evidencia de Control de Versiones
+
+Durante el desarrollo del blog se realizaron múltiples commits para registrar el progreso del trabajo.
+
+Ejemplos:
+
+Creación del repositorio.
+Publicación de la primera versión del artículo.
+Corrección de formato.
+Incorporación de la reflexión final.
+Reflexión sobre Feedback Radicalmente Sincero
+
+Durante el desarrollo del proyecto procuré aceptar observaciones de manera objetiva y utilizarlas para mejorar el contenido. En lugar de considerar las críticas como un aspecto negativo, las interpreté como oportunidades de aprendizaje.
+
+Gracias a ese enfoque fue posible reorganizar mejor la información, explicar con mayor claridad el proceso seguido y producir una documentación más útil tanto para perfiles técnicos como no técnicos.
